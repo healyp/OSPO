@@ -1,7 +1,7 @@
 ---
 layout: pagefullwidth
 title: "People"
-description: "Members and researchers of BioMEC"
+description: "Members and researchers of Lero"
 logo:
 header-img: "img/home-bg.jpg"
 ordernumber: 3
